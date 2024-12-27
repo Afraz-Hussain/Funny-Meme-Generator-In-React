@@ -1,0 +1,8 @@
+[ 
+    { "id": 1, "question": "What is React?", "answer": "React is a JavaScript library for building user interfaces." },
+    { "id": 2, "question": "What is python?", "answer": "JSX is a syntax extension for JavaScript that looks similar to HTML." },
+    { "id": 3, "question": "What is web dev?", "answer": "Components are reusable pieces of UI in React." },
+    { "id": 4, "question": "What is node?", "answer": "The Virtual DOM is a lightweight copy of the real DOM used for efficient updates." },
+    { "id": 5, "question": "What is laravel?", "answer": "State is an object used to store dynamic data in a component." }
+    
+]
